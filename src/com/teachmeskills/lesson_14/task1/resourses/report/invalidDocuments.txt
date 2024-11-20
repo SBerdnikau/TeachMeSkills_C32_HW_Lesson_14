@@ -1,0 +1,8 @@
+docnum11f2f45678 - Incorrect length document Error code: 100
+^docnum13f34567 - Incorrect format document Error code: 200
+docnun12g45678g - Incorrect format document Error code: 200
+docnum*1f34d678 - The document contain characters  Error code: 300
+ - Incorrect length document Error code: 100
+contract22345672 - Incorrect length document Error code: 100
+contract12345672 - Incorrect length document Error code: 100
+contract!1234567 - Incorrect length document Error code: 100
